@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "Memento",
+        "year": "2000",
+        "rating": "8.6"
+    },
+    {
+        "id": 2,
+        "title": "Insomnia",
+        "year": "2002",
+        "rating": "7.9"
+    },
+    {
+        "id": 3,
+        "title": "The Prestige",
+        "year": "2006",
+        "rating": "8.2"
+    },
+    {
+        "id": 4,
+        "title": "The Following",
+        "year": "1998",
+        "rating": "7.4"
+    },
+    {
+        "id": 5,
+        "title": "Inception",
+        "year": "2010",
+        "rating": "7.4"
+    },
+    {
+        "id": 6,
+        "title": "Batman Begins",
+        "year": "2007",
+        "rating": "8.0"
+    },
+    {
+        "id": 7,
+        "title": "The Dark Knight",
+        "year": "208",
+        "rating": "9.2"
+    },
+    {
+        "id": 8,
+        "title": "The Dark Knight Rises",
+        "year": "2013",
+        "rating": "8.4"
+    },
+    {
+        "id": 9,
+        "title": "Interstellar",
+        "year": "2015",
+        "rating": "8.6"
+    },
+    {
+        "id": 10,
+        "title": "Dunkirk",
+        "year": "2018",
+        "rating": "8.2"
+    },
+    {
+        "id": 11,
+        "title": "Tenet",
+        "year": "2021",
+        "rating": "7.8"
+    }
+]
