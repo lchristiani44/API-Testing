@@ -1,0 +1,6 @@
+// Configuracion de Babel para que sepa que tiene que transpilar
+{
+    "presets": [
+        "@babel/preset-env"
+    ]
+}

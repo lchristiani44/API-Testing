@@ -1,0 +1,7 @@
+node_modules
+node_modules/
+/node_modules
+
+/express_postgreSQL/.env
+/express_Sequelize/.env
+/No_DB/.env
