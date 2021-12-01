@@ -13,4 +13,5 @@ router.post('/', createPlayer)
 router.delete('/:id', deletePlayer)
 router.put('/:id', updatePlayer)
 
+// Exports
 module.exports = router

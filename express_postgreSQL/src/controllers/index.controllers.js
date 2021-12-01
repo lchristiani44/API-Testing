@@ -78,6 +78,7 @@ const updatePlayer = async (req, res) => {
     })
 }
 
+// Exports
 module.exports = {
     getPlayers,
     getPlayerById,
